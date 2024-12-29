@@ -6,4 +6,6 @@ The format should be name first, then title, then project info (where appropriat
 # (the one and only) Daniel Hass, lab PI
 [insert picture of Dan dressed like a detective]
 
+![We don't yet have any pictures of Dan dressed as a detective](https://github.com/danielhass13/HassLab/blob/main/.github/daniel.hass%20copy%202.jpg)
+
 I'll add more people once the damn lab has actually begun!!!
