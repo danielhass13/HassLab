@@ -1,13 +1,16 @@
 # Preprints and Submitted (last updated December 2024)
 
-__D. Hass__, K. Pandey, B. Robbings, R. Lim, J. Chao, J. Hurley. Less is more: the RPE cell culture medium additive mildly impairs cell health. [Submitted, Under review at Advances in Experimental Medicine and Biology submission, 11/2023]
 
-__D. Hass__, E. Giering, C. Bisbach, B. Robbings, T. Mundinger, and J. Hurley. The Circulation of Metabolites in the Outer Retina. bioRxiv, 04/2023 (https://www.biorxiv.org/content/10.1101/2023.04.10.536306v1)
+
+__D. Hass__, E. Giering, J. Han, C. Bisbach, K. Pandey, B. Robbings, T. Mundinger, N. Nolan, S. Tsang, N. Peachey, N. Philp, J. Hurley. In vivo exchange of glucose and lactate between photoreceptors and the retinal pigment epithelium. bioRxiv, 12/2024 (https://www.biorxiv.org/content/10.1101/2023.04.10.536306v2)
 
 # Publications (last updated December 2024)
 
-### 2025
+### 2025 (expected, not available online yet)
 
+S. Caruso, X. Cui, B. Robbings, N. Heaps, A. Demikrol, B. Costa, __D. Hass__, P. Quinn, J. Du, J. Hurley, S. Tsang.  Cell-specific reprogramming of HIFs rescues preclinical model of retinitis pigmentosa and illuminates RPE/photoreceptor metabolic coupling. (Accepted, JCI)
+
+__D. Hass__, K. Pandey, B. Robbings, R. Lim, J. Chao, J. Hurley. Less is more: the RPE cell culture medium additive mildly impairs cell health. (Accepted, Experimental Medicine and Biology)
 
 ### 2024
 
